@@ -14,7 +14,7 @@ Welcome to the Knowledge Hub Blog! The Knowledge Blog is a comprehensive platfor
 
 ## Quick Start Guide
 
-1. Download /Install the template:
+1. Download the project from github:
 2. Run npm install
 
 ```bash

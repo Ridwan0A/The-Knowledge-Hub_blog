@@ -11,3 +11,20 @@ Welcome to the Knowledge Hub Blog! The Knowledge Blog is a comprehensive platfor
 - SEO Friendly: The blog includes metadata and Open Graph tags implemented with Next SEO, making it SEO friendly and easily discoverable by search engines.
 - Light and Dark Theme: The website supports both light and dark themes for better user experience and accessibility.
 - Google Analytics: Integration with Google Analytics allows you to track website traffic, user behavior, and gain insights into your audience.
+
+## Quick Start Guide
+
+1. Download /Install the template:
+2. Run npm install
+
+```bash
+npm install
+```
+
+3. After installation is done run npm start
+
+```bash
+npm start
+```
+
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

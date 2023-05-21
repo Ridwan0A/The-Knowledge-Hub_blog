@@ -66,12 +66,17 @@ const CenteredNavbar = ({
                 alt=""
                 className="cursor-pointer"
                 width="100px"
+                key="logo"
               />
             ) : (
-              <span className="text-[22px] font-semibold">{logo.logo}</span>
+              <span className="text-[22px] font-semibold" key="logo">
+                {logo.logo}
+              </span>
             )
           ) : (
-            <span className="text-[22px] font-semibold">Logo</span>
+            <span className="text-[22px] font-semibold" key="logo">
+              Logo
+            </span>
           )}
         </LinkTo>
 
@@ -122,6 +127,7 @@ const CenteredNavbar = ({
               openDD={openDD}
               setOpenDD={() => setOpenDD(!openDD)}
               floating
+              key={i}
             />
           )
         )}

@@ -5,7 +5,7 @@ import CodeBlock from "../../src/components/CodeBlock";
 const nextjs = () => {
 
     return (
-        <PageLayout home>
+        <PageLayout blogwithsidebar>
             <div className="container mx-auto p-4">
   <h1 className="text-4xl font-bold mb-4">Next.js Tutorial</h1>
   <br/>

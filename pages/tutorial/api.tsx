@@ -6,7 +6,7 @@ import { AuthorSetup, NavbarSetup, NavbarSetupType, NavbarSetup_NAVLINKS, Navbar
 
 const BlogSetup = () => {
     return (
-        <PageLayout home>
+        <PageLayout blogwithsidebar>
             <div className="container mx-auto p-4">
   <h1 className="text-4xl font-bold mb-4">Building RESTful APIs</h1>
   <br/>

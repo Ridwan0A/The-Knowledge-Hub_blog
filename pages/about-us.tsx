@@ -26,7 +26,7 @@ const AboutUs = () => {
                     </Text>
 
                     <Text p className='text-lg'>
-                    At the Knowledge Hub Blog, we are passionate about web development and dedicated to providing you with valuable insights, resources, and knowledge to fuel your growth in this ever-evolving field. 
+                    At the Knowledge Hub Blog,I am passionate about web development and dedicated to providing you with valuable insights, resources, and knowledge to fuel your growth in this ever-evolving field. 
                     Whether you're a beginner taking your first steps or an experienced developer seeking to expand your expertise, our goal is to be your go-to resource for all things web development.
                     </Text>
 
@@ -35,9 +35,9 @@ const AboutUs = () => {
                             <Text subtitle className='text-3xl font-medium'>
                                 <b>Why this blog?</b>
                             </Text>
-                            We created the Knowledge Hub Blog with a clear vision and purpose in mind.  We believe in the power of knowledge sharing and the positive impact it can have on individuals and the web development community as a whole. 
+                            I created the Knowledge Hub Blog with a clear vision and purpose in mind.  I believe in the power of knowledge sharing and the positive impact it can have on individuals and the web development community as a whole. 
                                     By providing a platform dedicated to web development, 
-                                    we aim to contribute to the collective knowledge and help others in their learning journey.
+                                    I aim to contribute to the collective knowledge and help others in their learning journey.
                                     Web development is a rapidly evolving field with new technologies, frameworks, and best practices emerging constantly. It can be challenging for developers to stay up-to-date and navigate through the vast amount of information available.
                                     Our blog aims to bridge the gap by curating and presenting relevant and reliable content in a concise and accessible manner.
                                     We are passionate about empowering developers to excel in their craft. 
@@ -62,7 +62,7 @@ const AboutUs = () => {
                     </div>
                     <Seperator />
                     <Text p className='text-lg'>
-                        This is an open source project everyone is welcome to contribute. Feel free to open an issue, if you have any questions or incase you find a bug. Create your versions of this template and help the community, also if you are using our template a little credit will be much appreciated.
+                        This is an open source project everyone is welcome to contribute.
                     </Text>
                     <Seperator />
                     <Text p className='text-lg'>
@@ -71,7 +71,7 @@ const AboutUs = () => {
     
                     <div className="px-4 py-3 dark:bg-slate-800 bg-blue-200 rounded my-5">
                         <Text p className="!text-lg leading-relaxed mb-0">
-                            For any any queries related to this project feel free to connect with me at <u>ridwan0abdullahi@gmail.com</u>.
+                            For any queries related to this project feel free to connect with me at <u>ridwan0abdullahi@gmail.com</u>.
                         </Text>
                     </div>
                 </div>

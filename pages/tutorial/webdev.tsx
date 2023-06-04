@@ -4,7 +4,7 @@ import { PageLayout, Text, List, Image, LinkTo, Seperator, Slider } from "../../
 
 const tips = () => {
     return (
-        <PageLayout home>
+        <PageLayout blogwithsidebar>
             <div className="container mx-auto p-4">
   <h1 className="text-4xl font-bold mb-4">Web Developer Tips</h1>
   <br/>
